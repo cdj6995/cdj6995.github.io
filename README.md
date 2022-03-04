@@ -20,6 +20,7 @@
 ## 2. IT 경험
 
 | |과목|기간|개요|
+|:---:|:------:|:-----------:|
 |1|[Python](https://cdj6995.github.io)|2021.07~|Python 기초|
 |2|[SQL](https://cdj6995.github.io)|2021.07~|SQL 기초|
 |3|[Git](https://youtu.be/A4ILjC92ieE)|2022.03.04|Git 사용법|
