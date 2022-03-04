@@ -3,7 +3,7 @@
 
 ### 1. 본인소개
 
-|이름|최덕재|<img src="image.png width=50 height=50"/>|
+|이름|최덕재|<img src="image.png" width="100" height="100"/>|
 |연락처|010-2650-9600||
 |skill set|Python||
 |자격증|無||
