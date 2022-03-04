@@ -15,6 +15,6 @@
 ## 3. IT 경험
 
 | |과목|기간|개요|
-|1|[git](https://cdj6995.github.io)|2022~|git 사용법|
+|1|[git](https://youtu.be/A4ILjC92ieE)|2022|git 사용법|
 |2|[java](https://cdj6995.github.io)|2022~|java 기초|
 |3|[SQL](https://cdj6995.github.io)|2022~|sql 기초|
