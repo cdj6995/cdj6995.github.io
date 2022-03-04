@@ -5,8 +5,10 @@
 
 |이름|최덕재|<img src="image.png"/>|
 |연락처|010-2650-9600||
+|skill set|Python||
 |자격증|無||
 |수상|無||
+|특이사항|하루하루 열심히 살기위해 노력중||
 
 ## 2. 나의 소개 발표동영상
 발표동영상입니다.
@@ -15,9 +17,10 @@
 ## 3. IT 경험
 
 | |과목|기간|개요|
-|1|[git](https://youtu.be/A4ILjC92ieE)|2022.03.04|git 사용법|
-|2|[java](https://cdj6995.github.io)|2022~|java 기초|
-|3|[SQL](https://cdj6995.github.io)|2022~|sql 기초|
+|1|[Python](https://cdj6995.github.io)|2021.07~|Python 기초|
+|2|[SQL](https://cdj6995.github.io)|2021.07~|sql 기초|
+|3|[git](https://youtu.be/A4ILjC92ieE)|2022.03.04|git 사용법|
+|||||
 
 
 
