@@ -12,8 +12,8 @@
 |수상|無|
 |특이사항|하루하루 열심히 살기위해 노력중|
 
-<br>
 [자기소개](/2260341022.pdf)
+<br>
 
 ## 2. IT 경험
 
@@ -23,11 +23,13 @@
 |3|[Git](https://youtu.be/A4ILjC92ieE)|2022.03.04|Git 사용법|
 |||||
 
+<br>
+
 ## 3. 앞으로 내가 공부할 곳
 괄명융합기술교육원 데이터분석과
 <iframe width="742" height="417" src="https://www.youtube.com/embed/fFOt80UcN3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 ### 관련 링크
-### [나의 Youtube](https://www.youtube.com/channel/UCanptAc5IHwvlhn61qxP4pw)
 ### [나의 Github](https://github.com/cdj6995)
+### [나의 Youtube](https://www.youtube.com/channel/UCanptAc5IHwvlhn61qxP4pw)
