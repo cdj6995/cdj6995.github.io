@@ -18,3 +18,7 @@
 |1|[git](https://youtu.be/A4ILjC92ieE)|2022.03.04|git 사용법|
 |2|[java](https://cdj6995.github.io)|2022~|java 기초|
 |3|[SQL](https://cdj6995.github.io)|2022~|sql 기초|
+
+
+
+[나의 Youtube](https://www.youtube.com/channel/UCanptAc5IHwvlhn61qxP4pw)
