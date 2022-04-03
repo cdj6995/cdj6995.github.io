@@ -10,7 +10,7 @@
 |:---------:|:-------------:|
 |이름|최덕재|
 |연락처|010-2650-9600|
-|skill set|Python|
+|skill set|Python, Java|
 |자격증|앞으로 취득 예정|
 |수상|앞으로 수상 예정|
 |특이사항|하루하루 열심히 살기위해 노력중|
@@ -25,7 +25,7 @@
 |1|[Git](https://cdj6995.github.io/Git_Study/)|2022.03.04|Git 사용법|
 |||2022.03.07|Sourcetree 사용법|
 |2|[Java](https://github.com/cdj6995/Java_Study)|2022.03.08 ~|Java 기초 문법|
-|3|[Linux]|2022.03.29 ~|Linux 사용법 및 기본 문법|
+|3|Linux|2022.03.29 ~|Linux 사용법 및 기본 문법|
 |||||
 
 
